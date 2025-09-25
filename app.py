@@ -32,7 +32,7 @@ if c.fetchone()[0] == 0:
 
 # --- App UI ---
 st.set_page_config(page_title="Stellah Kaliati", layout="wide")
-st.title("🏗️ Modern Sanitation Bid Intelligence Dashboard")
+st.title("🏗️ stellah Kaliati")
 
 st.markdown("Welcome to the **Modern Sanitation Bid Intelligence Dashboard**! 💡📊\n\nTrack your bids, analyze trends, and improve decision-making based on historical bid data.")
 
